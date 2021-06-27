@@ -1,5 +1,5 @@
 # Class Checker
-一个用于核对班级应到人数以及班级对应学院的程序，前端基于PyQt5，数据分析与处理基于pandas。
+一个用于核对班级应到人数以及班级对应学院的程序，前端基于PyQt5，数据分析与处理基于pandas。  
 Author: Bo Cai  
 Mail: [caibo0520@qq.com](caibo0520@qq.com)
 # 开发环境搭建
